@@ -1,0 +1,2 @@
+PySide2==5.15.2.1
+python-mpv==0.5.2
